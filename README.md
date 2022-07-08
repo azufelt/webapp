@@ -12,14 +12,9 @@ The two main purposes for writing this application:
 ·E-commerce is a MAJOR player in modern websites, it's important to know how best to serve those companies and clients that focus on it.
 ·An e-commerce site, when broken down, has all of the components that just about any site would ever need to have: ability to add and showcase product, register and account, login a user, make lists of items (cart), persist data for when a user returns to the site.  
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/NFoY3HWj7eE)
 
 # Web Pages
-
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
 
 The first page that is created is a home page, with a nav bar at the top. The contenthas been modularized and is being dynamically injected via EJS. This is important for scale and maintainability purposes, because if changes needed to be made to something such as the < navigation > it would only need to be changed in one location, making large sites and projects much easier to maintain. 
 
