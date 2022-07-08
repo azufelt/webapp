@@ -21,7 +21,7 @@ The two main purposes for writing this application:
 
 {Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
 
-The first page that is created is a home page, with a nav bar at the top. The contenthas been modularized and is being dynamically injected via EJS. This is important for scale and maintainability purposes, because if changes needed to be made to something such as the <navigation> it would only need to be changed in one location, making large sites and projects much easier to maintain. 
+The first page that is created is a home page, with a nav bar at the top. The contenthas been modularized and is being dynamically injected via EJS. This is important for scale and maintainability purposes, because if changes needed to be made to something such as the < navigation > it would only need to be changed in one location, making large sites and projects much easier to maintain. 
 
 Once there, the user can navigate to the Product page, which shows detailed product descriptions, or they can Login. 
 
