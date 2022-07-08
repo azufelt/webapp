@@ -1,0 +1,7 @@
+{
+  "name": "Design Shoppe",
+  "description": "A simple Node.js web application using Express 4",
+  "repository": "https://github.com/",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
